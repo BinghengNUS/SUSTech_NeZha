@@ -1,6 +1,8 @@
 # SUSTech_NeZha
 Scource code of the paper entitled 'Underactuated Motion Planning and Control for Jumping With Wheeled-Bipedal Robots'
 
+If you found this code useful in your research, please consider citing.
+
 
 @ARTICLE{9310341,
   author={Chen, Hua and Wang, Bingheng and Hong, Zejun and Shen, Cong and Wensing, Patrick M. and Zhang, Wei},
